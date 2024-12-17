@@ -1,0 +1,2 @@
+# SmartWardrobe
+Minor Project
